@@ -11,4 +11,5 @@ public abstract class Photo : BaseEntity
     public City City { get; set; }
     public AppUser User { get; set; }
     
+    
 }
