@@ -10,5 +10,4 @@ public abstract class Photo : BaseEntity
     //Relationships
     public City City { get; set; }
     public AppUser User { get; set; }
-    
 }
